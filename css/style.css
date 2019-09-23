@@ -8,7 +8,7 @@ html, body{
 #canvas{
     float: left;
     background-color: #fefefe;
-    background-image: url("http://cdn-ak.f.st-hatena.com/images/fotolife/k/kentobon/20131005/20131005080742.png");
+    background-image: url("https://cdn-ak.f.st-hatena.com/images/fotolife/k/kentobon/20131005/20131005080742.png");
 }
 #score, #life{
     display: inline-block;    
